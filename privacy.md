@@ -71,6 +71,7 @@ as this game and your general location).
 - **Ad settings at Google:** https://myadcenter.google.com
 
 How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
+
 Google Privacy Policy: https://policies.google.com/privacy
 
 ## 3. Purchases (Google Play Billing)
@@ -79,11 +80,11 @@ The game offers optional in-app purchases, such as coin packs and Remove ads, th
 Google Play processes the payment. We never receive your card number, bank details or billing address. Google Play
 tells the game which item was bought, with its purchase status and a purchase token, so that the game can deliver
 the item; the game keeps only a fingerprint of the token on your device (section 1). Google may also show us basic
-order details in our Google Play Console, such as the order number, the item, the price, the country and the date
-, which we use only for
-refunds, support and accounting.
+order details in our Google Play Console, such as the order number, the item, the price, the country and the date,
+which we use only for refunds, support and accounting.
 
 Google Play Terms of Service: https://play.google.com/about/play-terms/
+
 Google Privacy Policy: https://policies.google.com/privacy
 
 ## 4. Gameplay statistics (analytics)
@@ -98,7 +99,8 @@ counts by device model and Android version. These reports do not tell us who you
 
 ## 5. Other features
 
-- **Privacy link.** Settings > Privacy opens this policy in your phone's web browser.
+- **This policy in the game.** Settings > Privacy Policy shows this policy inside the game; no internet connection
+  is needed to read it.
 - **Email us.** If you write to the support address on our Google Play page, we receive your email address and
   what you write. We use it only to answer you and to improve the game, and we delete it 12 months after
   the conversation ends.
@@ -170,6 +172,8 @@ Google Play.
 
 ## 13. Contact
 
-Moss Studio  
-Email: mossstudio6886@gmail.com  
-Vietnam
+Moss Studio
+
+Email: mossstudio6886@gmail.com
+
+Country: Vietnam

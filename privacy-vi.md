@@ -76,6 +76,7 @@ cảnh, như chính trò chơi này và vị trí chung của bạn).
 - **Cài đặt quảng cáo của Google:** https://myadcenter.google.com
 
 Cách Google dùng thông tin từ các ứng dụng dùng dịch vụ của Google: https://policies.google.com/technologies/partner-sites?hl=vi
+
 Chính sách quyền riêng tư của Google: https://policies.google.com/privacy?hl=vi
 
 ## 3. Mua hàng (Google Play Billing)
@@ -84,10 +85,11 @@ Trò chơi có các gói mua trong ứng dụng không bắt buộc, như gói x
 Play. Google Play xử lý việc thanh toán. Chúng tôi không bao giờ nhận số thẻ, thông tin ngân hàng hay địa chỉ thanh
 toán của bạn. Google Play báo cho trò chơi biết gói nào đã được mua, kèm trạng thái và mã giao dịch, để trò chơi trao
 vật phẩm; trò chơi chỉ giữ "dấu vân tay" của mã đó trên máy bạn (mục 1). Google cũng có thể cho chúng tôi xem thông
-tin đơn hàng cơ bản trong Google Play Console, như mã đơn, gói đã mua, giá, quốc gia và ngày mua, mà chúng tôi chỉ dùng để hoàn tiền,
-hỗ trợ và kế toán.
+tin đơn hàng cơ bản trong Google Play Console, như mã đơn, gói đã mua, giá, quốc gia và ngày mua, mà chúng tôi chỉ dùng để hoàn
+tiền, hỗ trợ và kế toán.
 
 Điều khoản dịch vụ của Google Play: https://play.google.com/about/play-terms/
+
 Chính sách quyền riêng tư của Google: https://policies.google.com/privacy?hl=vi
 
 ## 4. Thống kê lượt chơi (phân tích)
@@ -102,7 +104,8 @@ như số lần lỗi theo mẫu máy và phiên bản Android. Các báo cáo n
 
 ## 5. Các tính năng khác
 
-- **Đường dẫn quyền riêng tư.** Cài đặt > Quyền riêng tư mở chính sách này trong trình duyệt web của điện thoại.
+- **Chính sách ngay trong trò chơi.** Cài đặt > Chính sách quyền riêng tư hiển thị chính sách này ngay trong trò
+  chơi; không cần kết nối internet để đọc.
 - **Gửi email cho chúng tôi.** Nếu bạn viết tới địa chỉ hỗ trợ trên trang Google Play của trò chơi, chúng tôi nhận
   được địa chỉ email và nội dung bạn viết. Chúng tôi chỉ dùng chúng để trả lời bạn và cải thiện trò chơi, và xóa
   chúng 12 tháng sau khi cuộc trao đổi kết thúc.
@@ -176,6 +179,8 @@ Google Play.
 
 ## 13. Liên hệ
 
-Moss Studio  
-Email: mossstudio6886@gmail.com  
-Việt Nam
+Moss Studio
+
+Email: mossstudio6886@gmail.com
+
+Quốc gia: Việt Nam
