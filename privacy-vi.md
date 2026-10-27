@@ -6,7 +6,7 @@ permalink: /privacy-vi
 
 # Chính sách quyền riêng tư: Magnet Out
 
-Cập nhật lần cuối: 24 tháng 10 năm 2026
+Cập nhật lần cuối: 27 tháng 10 năm 2026
 
 Magnet Out ("trò chơi") là trò chơi giải đố một người chơi trên Android, do Moss Studio ("chúng tôi") phát triển. Chính sách này giải thích trò chơi và các dịch vụ bên trong nó
 dùng những dữ liệu nào, để làm gì, ai nhận được, và bạn có những lựa chọn gì. Chính sách áp dụng cho trò chơi phát
@@ -106,9 +106,20 @@ như số lần lỗi theo mẫu máy và phiên bản Android. Các báo cáo n
 
 - **Chính sách ngay trong trò chơi.** Cài đặt > Chính sách quyền riêng tư hiển thị chính sách này ngay trong trò
   chơi; không cần kết nối internet để đọc.
-- **Gửi email cho chúng tôi.** Nếu bạn viết tới địa chỉ hỗ trợ trên trang Google Play của trò chơi, chúng tôi nhận
-  được địa chỉ email và nội dung bạn viết. Chúng tôi chỉ dùng chúng để trả lời bạn và cải thiện trò chơi, và xóa
-  chúng 12 tháng sau khi cuộc trao đổi kết thúc.
+- **Chia sẻ và "Hỏi bạn bè".** Các nút này tạo một hình ảnh bàn chơi (kèm số sao và số lượt của bạn) và một đoạn chữ
+  ngắn có đường dẫn tới trang Google Play của trò chơi, rồi mở menu chia sẻ của Android. Không có gì được chia sẻ cho
+  tới khi bạn tự chọn một ứng dụng và gửi đi, và không có gì được gửi cho chúng tôi. Đường dẫn chỉ mang một nhãn cho
+  biết nó đến từ một lần chia sẻ (ví dụ "utm_source=share"); Google Play có thể đếm nhãn này trong thống kê cửa hàng
+  của chúng tôi mà không cho chúng tôi biết bạn là ai. Hình ảnh được giữ trong bộ nhớ riêng của trò chơi trên thiết bị
+  cho tới khi lần chia sẻ sau thay thế nó.
+- **Đánh giá trên Google Play.** Cài đặt > Đánh giá trên Google Play mở trang Google Play của trò chơi. Điểm đánh giá
+  và nhận xét do Google Play xử lý theo điều khoản của Google; chúng tôi chỉ thấy những gì Google Play hiển thị công
+  khai.
+- **Gửi email / Gửi góp ý.** Cài đặt > Gửi góp ý mở ứng dụng thư của chính bạn với địa chỉ hỗ trợ của chúng tôi, phiên
+  bản trò chơi, tên hệ điều hành của điện thoại và ngôn ngữ trò chơi được điền sẵn; bạn quyết định có gửi hay không.
+  Nếu bạn viết cho chúng tôi (theo cách này hoặc từ trang Google Play), chúng tôi nhận được địa chỉ email và nội dung
+  bạn viết. Chúng tôi chỉ dùng chúng để trả lời bạn và cải thiện trò chơi, và xóa chúng 12 tháng sau khi cuộc trao
+  đổi kết thúc.
 - **Rung.** Chỉ dùng cho phản hồi rung; không thu thập dữ liệu nào.
 
 ## 6. Quyền truy cập

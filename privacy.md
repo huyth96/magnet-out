@@ -6,7 +6,7 @@ permalink: /privacy
 
 # Privacy Policy: Magnet Out
 
-Last updated: 24 October 2026
+Last updated: 27 October 2026
 
 Magnet Out ("the game") is a single-player puzzle game for Android, made by Moss Studio ("we", "us"). This policy explains what data the game and the services inside it use, why, who receives it,
 and the choices you have. It applies to the game as distributed on Google Play.
@@ -101,9 +101,17 @@ counts by device model and Android version. These reports do not tell us who you
 
 - **This policy in the game.** Settings > Privacy Policy shows this policy inside the game; no internet connection
   is needed to read it.
-- **Email us.** If you write to the support address on our Google Play page, we receive your email address and
-  what you write. We use it only to answer you and to improve the game, and we delete it 12 months after
-  the conversation ends.
+- **Share and "Ask a friend".** These buttons make a picture of the puzzle board (with your stars and taps on it) and
+  a short text with a link to the game's Google Play page, then open Android's share menu. Nothing is shared until you
+  pick an app and send it yourself, and nothing is sent to us. The link carries only a label saying it came from a
+  share (for example "utm_source=share"), which Google Play may count in our store statistics without telling us who
+  you are. The picture is kept in the game's own storage on your device until it is replaced by the next share.
+- **Rate on Google Play.** Settings > Rate on Google Play opens the game's Google Play page. Ratings and reviews are
+  handled by Google Play under its terms; we see only what Google Play shows publicly.
+- **Email us / Send feedback.** Settings > Send feedback opens your own mail app with our support address and the game
+  version, your phone's operating system name and the game language filled in; you decide whether to send it. If you
+  write to us (this way or from our Google Play page), we receive your email address and what you write. We use it
+  only to answer you and to improve the game, and we delete it 12 months after the conversation ends.
 - **Vibration.** Used for haptic feedback only; no data is collected.
 
 ## 6. Permissions
